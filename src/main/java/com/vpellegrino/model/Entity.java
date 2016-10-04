@@ -3,7 +3,7 @@ package com.vpellegrino.model;
 /**
  * This is a simple bean which represents an entity row to be imported
  * 
- * @author vpellegr
+ * @author vpellegrino
  *
  */
 public class Entity {

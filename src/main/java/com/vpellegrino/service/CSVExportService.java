@@ -14,7 +14,7 @@ import com.vpellegrino.model.Entity;
 /**
  * This class provides export in CSV format files
  * 
- * @author vpellegr
+ * @author vpellegrino
  *
  */
 public class CSVExportService {

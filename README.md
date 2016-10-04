@@ -6,7 +6,7 @@ How to compile:
 - Go to the project root (where you can find pom.xml)
 - You can modify log verbosity, editing src/main/resources/log4j.properties
 - Run: mvn clean install
-- As result, if there will not be errors, you will have two jar: ManyDomainsGenerator.jar (the tool) e ManyDomainsGenerator-javadoc.jar (the documentation)
+- As result, if there will not be errors, you will have two jar: ManyDomainsGenerator.jar (the tool) and ManyDomainsGenerator-javadoc.jar (the documentation)
 
 **********************************************************************************************************************************************
 How to execute:

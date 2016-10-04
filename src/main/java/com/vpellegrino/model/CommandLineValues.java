@@ -6,7 +6,7 @@ import org.kohsuke.args4j.Option;
  * This is a simple bean that represents the command line values, eventually
  * passed to main method when main class is launched
  * 
- * @author vpellegr
+ * @author vpellegrino
  *
  */
 public class CommandLineValues {
